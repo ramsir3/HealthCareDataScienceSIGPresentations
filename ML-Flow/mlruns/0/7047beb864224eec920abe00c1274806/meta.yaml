@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ram/Class/BMI6015_ML/SIG/mlflowpresentation/mlruns/0/7047beb864224eec920abe00c1274806/artifacts
+end_time: 1567122217094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7047beb864224eec920abe00c1274806
+run_uuid: 7047beb864224eec920abe00c1274806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1567122216954
+status: 3
+tags: []
+user_id: ram
